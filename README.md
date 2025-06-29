@@ -1,3 +1,4 @@
+(Created by AI)
 # 🥕 Pantry Tracker
 
 A beautiful, minimalistic grocery inventory management app built with React and TypeScript. Keep track of your groceries, never buy duplicates again, and get notified when items are running low.
