@@ -165,9 +165,6 @@ This is a personal project, but suggestions and improvements are welcome! Feel f
 - Improve documentation
 - Enhance the design
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
